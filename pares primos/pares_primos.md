@@ -18,8 +18,7 @@ através de duas somas de primos: 3+13 e 5+11.
 
 ## Saída
 
-- Imprimir o número de pares de primos que somados resultam em N. Note que 3+5=8 e 5+3=8 são o
-mesmo par. Contar o número de pares distintos.
+- Imprime o número de pares de primos distintos que somados resultam em N. 
 
 ## Comportamento
 
